@@ -650,18 +650,8 @@ catch SQLiteError as e {
 
 ---
 
-## 📄 License
-
-Released under the **MIT License**. Replace this section with your own license text if you prefer a different one.
-
----
-
 <div align="center">
 
-**Made with ❤️ for AutoHotkey v2**
-
-![Made with AutoHotkey](https://img.shields.io/badge/Made%20with-AutoHotkey-brightgreen?style=flat-square&logo=autohotkey&logoColor=white)
-![Powered by SQLite](https://img.shields.io/badge/Powered%20by-SQLite-0F80CC?style=flat-square&logo=sqlite&logoColor=white)
 
 ⭐ *If this library helped you, give the repo a star!* ⭐
 
